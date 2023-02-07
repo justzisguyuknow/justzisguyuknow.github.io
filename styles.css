@@ -8,6 +8,14 @@ p {
 	line-height: 1.4;
 }
 
+a:link {
+	color: darkblue;
+}
+
+a:visited {
+	color: indigo;
+}
+
 h1,h2,h3 {
 	font-family: Georgia, serif;
 }
