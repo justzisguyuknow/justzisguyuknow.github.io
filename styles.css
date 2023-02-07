@@ -1,5 +1,6 @@
 * {
-	font-family: Arial, Verdana, sans-serif;
+	font-family: Verdana, sans-serif;
+	color: #373737;
 }
 
 p {
@@ -7,7 +8,9 @@ p {
 	line-height: 1.4;
 }
 
-
+h1,h2,h3 {
+	font-family: Georgia, serif;
+}
 
 hr {
 	margin-left:0;
@@ -16,4 +19,5 @@ hr {
 
 nav {
 	font-weight: bold;
+	letter-spacing: 1px;
 }
