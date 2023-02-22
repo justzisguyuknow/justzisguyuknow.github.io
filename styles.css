@@ -29,3 +29,11 @@ nav {
 	font-weight: bold;
 	letter-spacing: 1px;
 }
+
+.imagealign {
+	max-width: 650px;
+}
+
+.alignedimg {
+	margin-left: 75px;
+}
