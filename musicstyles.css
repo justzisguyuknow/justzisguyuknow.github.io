@@ -14,11 +14,11 @@ p {
 }
 
 a:link {
-	color: darkblue;
+	color: lightcyan;
 }
 
 a:visited {
-	color: indigo;
+	color: lavender;
 }
 
 h2,h3 {
