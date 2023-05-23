@@ -38,7 +38,7 @@ nav {
 	letter-spacing: 1px;
 }
 
-iframe {
+iframe,audio {
 	display :block;
 	margin: auto;
 	position: relative;
